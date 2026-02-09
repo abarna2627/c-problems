@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() {
+int Age=20;
+int Count=5;
+printf("Age:%d\n",Age);
+printf("Count:%d",Count);
+    return 0;
+}
