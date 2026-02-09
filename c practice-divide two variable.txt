@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+int a=8;
+int b=2;
+int c=25;
+int d=5;
+int sum1 = a/b;
+int sum2 = c/d;
+printf("%d\n",sum1);
+printf("%d",sum2);
+    return 0;
+}
