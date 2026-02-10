@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main() 
+{
+    int a,b,c;
+    scanf("%d%d%d",&a, &b,&c);
+    printf("%d\n",a+b+c);
+    int d,e,f;
+    scanf("%d%d%d",&d,&e,&f);
+    printf("%d\n",d+e+f);
+    int m,n,k;
+    scanf("%d%d%d",&m,&n,&k);
+    printf("%d\n",m+n+k);
+    return 0;
+}
