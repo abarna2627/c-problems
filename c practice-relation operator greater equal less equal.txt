@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+int a,b;
+scanf("%d %d",&a,&b);
+printf("%d %d\n",a>=b,a<=b);
+int c,d;
+scanf("%d %d",&c,&d);
+printf("%d %d\n",c>=d,c<=d);
+int m,n;
+scanf("%d %d",&m,&n);
+printf("%d %d\n",m>=n,m<=n);
+
+return 0;
+}
