@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+  int Marks;
+  scanf("%d",&Marks);
+ if(Marks >=  90){
+     printf("Grade A");
+ }
+    else if(Marks >= 75 && Marks< 90){
+              printf("Grade B");
+          }
+else{
+    printf("Not Grade");
+          }
+          
+    return 0;
+}
+    
