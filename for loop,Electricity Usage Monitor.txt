@@ -10,6 +10,7 @@ int main() {
         scanf("%d",&units);
         total += units;
     }
-    printf("Toal Units: %d",total);
+    printf("Total Units: %d",total);
     return 0;
+
 }
